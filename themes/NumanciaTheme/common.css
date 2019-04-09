@@ -1,0 +1,25 @@
+@import url("panels/FoldablePanel/style.css");
+@import url("panels/DockablePanel/style.css");
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+/********** styles for simple panel***********/
+
+.jimu-main-font{
+  font-family: 'Comfortaa', cursive;
+}
+
+.esri-attribution{
+font-family: 'Comfortaa', cursive;
+
+}
+
+.jimu-simple-panel{
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+}
+.jimu-subtitle{
+  opacity: 0.5;
+}
+.jimu-link{
+  opacity: 0.8;
+}
